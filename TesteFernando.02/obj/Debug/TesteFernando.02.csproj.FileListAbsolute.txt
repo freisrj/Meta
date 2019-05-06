@@ -1,0 +1,8 @@
+c:\users\aluga.com\documents\visual studio 2013\Projects\Teste.Fernando.03\TesteFernando.02\bin\Debug\TesteFernando.02.exe.config
+c:\users\aluga.com\documents\visual studio 2013\Projects\Teste.Fernando.03\TesteFernando.02\bin\Debug\TesteFernando.02.exe
+c:\users\aluga.com\documents\visual studio 2013\Projects\Teste.Fernando.03\TesteFernando.02\bin\Debug\TesteFernando.02.pdb
+c:\users\aluga.com\documents\visual studio 2013\Projects\Teste.Fernando.03\TesteFernando.02\obj\Debug\TesteFernando.02.exe
+c:\users\aluga.com\documents\visual studio 2013\Projects\Teste.Fernando.03\TesteFernando.02\obj\Debug\TesteFernando.02.pdb
+C:\Users\aluga.com\Downloads\Teste.Fernando.03\Teste.Fernando.03\TesteFernando.02\bin\Debug\TesteFernando.02.exe.config
+C:\Users\aluga.com\Downloads\Teste.Fernando.03\Teste.Fernando.03\TesteFernando.02\obj\Debug\TesteFernando.02.exe
+C:\Users\aluga.com\Downloads\Teste.Fernando.03\Teste.Fernando.03\TesteFernando.02\obj\Debug\TesteFernando.02.pdb
